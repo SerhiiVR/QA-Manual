@@ -1,3 +1,0 @@
-# QA manual
-
-Homeworks
